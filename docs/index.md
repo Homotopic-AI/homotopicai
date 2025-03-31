@@ -1,4 +1,4 @@
-# HomotopicAI
+# Pocket Super Computers
 
 <div class="grid cards" markdown>
 
@@ -10,25 +10,34 @@
 
 </div>
 
-## Key Innovations
-- Symbolic AI Acceleration: Native execution of mathematical operations
-- Photonic Interconnects: Revolutionary data transfer technology
-- Energy-Efficient Supercomputing: Data-center power in your pocket
+## What is a Pocket Super Computer?
+A pocket super computer is a revolutionary device that brings unprecedented computing power to your fingertips. Unlike traditional supercomputers that require massive data centers and complex infrastructure, pocket super computers are portable, energy-efficient, and accessible to everyone.
 
-## About MAP™
-Born out of MIT, HomotopicAI is a Mathematics R&D Company building the world's first Math-Aware Processor (MAP™) Brick. MAP™ is a pocket-sized supercomputer that democratizes supercomputing by condensing data-center-grade power into a portable, cloudless device.
+## Key Features
+- **Portable Power**: Data-center-grade computing in your pocket
+- **Energy Efficient**: Revolutionary power management technology
+- **Cloudless Operation**: Complete self-contained computing
+- **Universal Compatibility**: Works with existing software and tools
 
-## Mission
-Our mission is to democratize access to supercomputing, making it cloudless, personal and portable.
+## Benefits
+- **Accessibility**: Democratizing access to supercomputing
+- **Cost-Effective**: No expensive infrastructure needed
+- **Environmental Impact**: Reduced energy consumption
+- **Flexibility**: Use anywhere, anytime
 
-## Vision
-Our vision is a world where advanced computing isn't tied to the cloud.
+## Applications
+- Scientific Research
+- Machine Learning
+- Data Analysis
+- Complex Simulations
+- Edge Computing
 
 ## Get Started
-- [Explore the Future](product/overview.md)
+- [Learn More](product/overview.md)
+- [Technical Specs](product/specs.md)
 - [Join Early Access](developer/sdk.md)
 
 ## Quick Links
-- [Pocket Supercomputer](map.md)
-- [Solutions](solutions.md)
-- [Tech](technology.md) 
+- [Product Overview](product/overview.md)
+- [Use Cases](product/use-cases.md)
+- [Developer Resources](developer/sdk.md) 
