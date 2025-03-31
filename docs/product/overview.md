@@ -74,12 +74,6 @@ The MAP™ Device is a revolutionary pocket supercomputer that brings unpreceden
 
 ## Support & Resources
 
-### Documentation
-- [Technical Documentation](../developer/docs.md)
-- [SDK Guide](../developer/sdk.md)
-- [Community Forum](../developer/community.md)
+For detailed technical information and implementation guides, please visit our [technical specifications](specs.md) and [use cases](use-cases.md) pages.
 
-### Support
-- [Contact Support](../support/contact.md)
-- [Technical Specifications](specs.md)
-- [Use Cases](use-cases.md) 
+For support and inquiries, please contact us at support@homotopicai.com. 
