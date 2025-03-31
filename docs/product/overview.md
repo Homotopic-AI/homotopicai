@@ -1,25 +1,24 @@
 # MAP™ Device Overview
 
-```
-╔═════════════════════════════════════════════════════════════════════════════╗
-║ The MAP™ Device brings supercomputer-level processing to your pocket,      ║
-║ delivering unprecedented computational power with unmatched efficiency.     ║
-╚═════════════════════════════════════════════════════════════════════════════╝
-```
+<div class="alert alert-info">
+  The MAP™ Device brings supercomputer-level processing to your pocket, delivering unprecedented computational power with unmatched efficiency.
+</div>
 
 ## What is the MAP™ Device?
 The MAP™ Device is a revolutionary pocket supercomputer that brings unprecedented computing power to your fingertips. It combines cutting-edge quantum computing technology with advanced AI capabilities in a portable, energy-efficient design.
 
 ## Key Features
 
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│ • Teraflop-level processing in a pocket-sized device                     │
-│ • Domain-specific cores for optimized performance                        │
-│ • Ultra-low power consumption                                           │
-│ • Complete data privacy and security                                    │
-└──────────────────────────────────────────────────────────────────────────┘
-```
+<div class="card">
+  <div class="card-body">
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item">• Teraflop-level processing in a pocket-sized device</li>
+      <li class="list-group-item">• Domain-specific cores for optimized performance</li>
+      <li class="list-group-item">• Ultra-low power consumption</li>
+      <li class="list-group-item">• Complete data privacy and security</li>
+    </ul>
+  </div>
+</div>
 
 ### Revolutionary Computing Power
 - **Quantum Processing**: Advanced quantum computing core for complex calculations
@@ -61,14 +60,16 @@ The MAP™ Device is a revolutionary pocket supercomputer that brings unpreceden
 
 ## Applications
 
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│ • AI/ML Training and Inference                                          │
-│ • Scientific Computing                                                  │
-│ • Data Analytics                                                       │
-│ • Edge Computing                                                       │
-└──────────────────────────────────────────────────────────────────────────┘
-```
+<div class="card">
+  <div class="card-body">
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item">• AI/ML Training and Inference</li>
+      <li class="list-group-item">• Scientific Computing</li>
+      <li class="list-group-item">• Data Analytics</li>
+      <li class="list-group-item">• Edge Computing</li>
+    </ul>
+  </div>
+</div>
 
 ### Scientific Research
 - Complex simulations
@@ -98,14 +99,29 @@ The MAP™ Device is a revolutionary pocket supercomputer that brings unpreceden
 
 ## Support & Resources
 
-- [Technical Documentation](developer/docs.md)
-- [SDK Guide](developer/sdk.md)
-- [Community Forum](developer/community.md)
-- [Contact Support](support/contact.md)
-
-## Next Steps
-
-[View detailed technical specifications →](specs.md)
-[Explore use cases →](use-cases.md)
-- [Join Developer Community](developer/community.md)
-- [Contact Sales](support/contact.md) 
+<div class="row">
+  <div class="col-md-6">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Documentation</h5>
+        <ul class="list-unstyled">
+          <li><a href="../developer/docs.md">Technical Documentation</a></li>
+          <li><a href="../developer/sdk.md">SDK Guide</a></li>
+          <li><a href="../developer/community.md">Community Forum</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Support</h5>
+        <ul class="list-unstyled">
+          <li><a href="../support/contact.md">Contact Support</a></li>
+          <li><a href="specs.md">Technical Specifications</a></li>
+          <li><a href="use-cases.md">Use Cases</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div> 
