@@ -6,7 +6,7 @@
 
     ---
 
-    ![MAP™ Device](assets/img/map-device.png)
+    ![MAP™ Device](map-device.png)
 
 </div>
 
