@@ -1,59 +1,115 @@
-# Welcome to Homotopic AI
+====================================================================
+                        MAP™ BRICK v1.0
+                ADVANCED COMPUTING SOLUTIONS
+====================================================================
+{: .text-center .text-primary }
 
-## Revolutionizing Computing with MAP™ Technology
+<div class="container" markdown="1">
 
-Homotopic AI is pioneering the future of computing with our revolutionary MAP™ (Math-Aware Processor) technology. We're breaking free from cloud dependency and bringing unprecedented computational power directly to your fingertips.
+<div class="row text-center mb-4">
+    <div class="col">
+        <div class="alert alert-primary" role="alert">
+            <pre class="mb-0" style="background: transparent; border: none; color: inherit;">
+┌─────────────────────────────────────────┐
+│      DATA CENTER POWER IN YOUR HAND     │
+└─────────────────────────────────────────┘</pre>
+        </div>
+    </div>
+</div>
 
-## Why MAP™?
+<div class="row justify-content-center mb-4">
+    <div class="col-md-6 text-center">
+        <div class="card mb-4">
+            <div class="card-header text-center">
+                <pre class="mb-0" style="background: transparent; border: none; color: inherit;">
+[ PRODUCT VISUALIZATION ]
+========================</pre>
+            </div>
+            <div class="card-body">
+                <img src="assets/img/map-brick.png" alt="MAP™ Brick device" class="img-fluid border p-2" style="max-width: 400px;">
+            </div>
+        </div>
+    </div>
+</div>
 
-### Unmatched Performance
-- Teraflop-level processing in a pocket-sized device
-- Zero latency computing
-- Complete data privacy
-- Universal compatibility
+<div class="row mb-4">
+    <div class="col">
+        <div class="card">
+            <div class="card-header text-center">
+                SYSTEM SPECIFICATIONS
+            </div>
+            <div class="card-body">
+                <p class="card-text">
+                    MAP™ Brick is a compact, plug-and-play device offering data-center-grade performance in handheld or edge devices. Math-Aware Processors (MAP™) are portable, domain-specific processors that deliver supercomputing power locally.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
 
-### Revolutionary Architecture
-- Quantum-inspired algorithms
-- Neural network optimization
-- Hypergraph memory architecture
-- Energy-efficient design
+<div class="row mb-4">
+    <div class="col">
+        <div class="card">
+            <div class="card-header text-center">
+                FEATURES.DAT
+            </div>
+            <div class="card-body">
+                <table class="table table-bordered">
+                    <tr>
+                        <td>[1] LOCAL LLM TRAINING</td>
+                        <td>CLOUDLESS ON-DEVICE PROCESSING</td>
+                    </tr>
+                    <tr>
+                        <td>[2] LOCAL LLM INFERENCE</td>
+                        <td>HIGH-SPEED MODEL EXECUTION</td>
+                    </tr>
+                    <tr>
+                        <td>[3] OFFLINE COMPUTING</td>
+                        <td>NO INTERNET REQUIRED</td>
+                    </tr>
+                    <tr>
+                        <td>[4] ENERGY EFFICIENT</td>
+                        <td>OPTIMIZED POWER USAGE</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
 
-### Key Benefits
-- Eliminate cloud computing costs
-- Protect sensitive data
-- Reduce energy consumption
-- Improve processing speed
-- Enhance security
+<div class="row mb-4">
+    <div class="col">
+        <div class="card">
+            <div class="card-header text-center">
+                HOMOTOPIC INTELLIGENCE
+            </div>
+            <div class="card-body">
+                <pre class="mb-0">
+MATHEMATICAL INTELLIGENCE [====================] 100%
+HARDWARE OPTIMIZATION   [====================] 100%
+CLOUD INDEPENDENCE     [====================] 100%
+                </pre>
+            </div>
+        </div>
+    </div>
+</div>
 
-## Applications
+<div class="row text-center mb-4">
+    <div class="col">
+        <div class="alert alert-secondary" role="alert">
+            READY TO TRANSFORM YOUR COMPUTING?
+            <hr>
+            <a href="developer/docs" class="btn btn-primary">GET STARTED >></a>
+        </div>
+    </div>
+</div>
 
-### Scientific Research
-- Complex simulations
-- Data analysis
-- Machine learning model training
-- Scientific computing
+<div class="row text-center">
+    <div class="col">
+        <small class="text-muted">
+            (C) 2025 HOMOTOPIC AI - ALL RIGHTS RESERVED
+        </small>
+    </div>
+</div>
 
-### Business & Industry
-- Big data analytics
-- Financial modeling
-- Supply chain optimization
-- Predictive maintenance
-
-### Healthcare & Medicine
-- Medical imaging processing
-- Drug discovery
-- Patient data analysis
-- Clinical trial analysis
-
-## Getting Started
-
-1. **Learn More**: Explore our [product overview](product/overview.md)
-2. **Technical Details**: View [specifications](product/specs.md)
-3. **Use Cases**: Discover [applications](product/use-cases.md)
-4. **Contact Us**: Reach out at support@homotopicai.com
-
-## Join the Revolution
-
-MAP™ technology represents a fundamental shift in computing architecture, moving away from centralized cloud dependency toward distributed, efficient, and secure local processing.
-
-[Learn more about our solution →](solution.md)
+</div>

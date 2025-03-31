@@ -1,0 +1,112 @@
+/* Custom styles for Bootstrap 386 theme */
+body {
+    font-family: "Perfect DOS VGA 437", monospace;
+    background-color: #000080;
+    color: #ffffff;
+}
+
+.container {
+    background-color: #000080;
+    padding: 20px;
+}
+
+/* Header Styles */
+pre {
+    font-family: "Perfect DOS VGA 437", monospace;
+    background-color: transparent;
+    border: none;
+    color: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+.text-primary {
+    color: #ffffff !important;
+    font-weight: bold;
+    margin-bottom: 2em;
+}
+
+.card {
+    background-color: #000080;
+    border: 2px solid #ffffff;
+    margin-bottom: 1.5em;
+}
+
+.card-header {
+    background-color: #0000aa;
+    color: #ffffff;
+    font-weight: bold;
+    border-bottom: 2px solid #ffffff;
+    padding: 0.5em;
+}
+
+.alert {
+    background-color: #0000aa;
+    border: 2px solid #ffffff;
+    color: #ffffff;
+    margin-bottom: 1.5em;
+}
+
+.table {
+    color: #ffffff;
+    margin-bottom: 0;
+}
+
+.table-bordered {
+    border: 2px solid #ffffff;
+}
+
+.table td {
+    border: 1px solid #ffffff;
+    padding: 0.5em;
+}
+
+.btn-primary {
+    background-color: #0000aa;
+    border: 2px solid #ffffff;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 0.5em 1em;
+}
+
+.btn-primary:hover {
+    background-color: #ffffff;
+    color: #0000aa;
+}
+
+/* Image styling */
+.img-fluid {
+    border: 2px solid #ffffff !important;
+    padding: 4px !important;
+    background-color: #000080;
+}
+
+/* Footer styling */
+.text-muted {
+    color: #aaaaaa !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+    
+    .card-header {
+        padding: 0.3em;
+    }
+    
+    .table td {
+        padding: 0.3em;
+    }
+}
+
+/* Blinking cursor effect */
+.cursor::after {
+    content: "▌";
+    animation: blink 1s step-end infinite;
+}
+
+@keyframes blink {
+    50% { opacity: 0; }
+}

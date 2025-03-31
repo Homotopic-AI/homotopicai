@@ -1,40 +1,26 @@
 site_name: HomotopicAI
 theme:
   name: bootstrap386
-  palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    - scheme: slate
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
   features:
     - navigation.tabs
     - navigation.sections
     - navigation.expand
     - navigation.top
-    - content.tabs.link
-    - content.code.annotation
-    - content.code.copy
-    - content.code.annotate
-  font:
-    text: Roboto
-    code: Roboto Mono
-  favicon: assets/favicon.png
+  custom_dir: overrides
   static_templates:
     - sitemap.xml
     - CNAME
+  palette:
+    scheme: dark
+
+extra_css:
+  - assets/css/custom.css
 
 markdown_extensions:
   - toc
   - tables
   - fenced_code
+  - attr_list
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -49,7 +35,13 @@ nav:
   - Home: index.md
   - Problem: problem.md
   - Solution: solution.md
-  - Architecture: architecture.md
+  - Technical Documentation:
+    - Foundations: foundations.md
+    - Design: design.md
+    - Energy Efficiency: energy.md
+    - Programming: programming.md
+    - Applications: applications.md
+    - Performance: performance.md
   - Product:
     - Overview: product/overview.md
     - Technical Specs: product/specs.md
@@ -62,3 +54,5 @@ edit_uri: edit/main/docs/
 
 plugins:
   - search
+
+copyright: '(C) 2025 HOMOTOPIC AI - ALL RIGHTS RESERVED'
