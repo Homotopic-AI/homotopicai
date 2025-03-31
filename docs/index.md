@@ -1,79 +1,82 @@
-# Pocket Super Computers
+### MAP™
+```
+┌─────────────────────────────────────┐
+│ Data Center Power in Your Pocket    │
+└─────────────────────────────────────┘
+```
 
-<div class="container">
-    <div class="row">
-        <div class="col-md-12 text-center">
-            <img src="map-device.png" alt="MAP™ Device" class="img-fluid" style="max-width: 300px; margin: 20px auto;">
-        </div>
-    </div>
+### Features
+```
+┌──────────────────────────┐
+│ [1] LLM Training        │
+│ [2] LLM Inference       │
+│ [3] High-Performance    │
+│ [4] No Internet Needed  │
+└──────────────────────────┘
+```
+
+### Team
+Born out of MIT, HomotopicAI builds the world's first Math-Aware Processor (MAP™) Brick - a breakthrough in portable computing.
+
+```
+┌─────────────────────────────────────────────┐
+│ MISSION: Democratize Supercomputing Access  │
+│ VISION:  Break Free from Cloud Dependence   │
+└─────────────────────────────────────────────┘
+```
+
+### Why MAP™?
+MAP™ delivers supercomputing power locally through domain-specific processors. By embedding mathematical intelligence in hardware, we eliminate cloud reliance while reducing energy use and cost.
+
+The MAP™ Brick is a pocket-sized supercomputer that democratizes supercomputing by condensing data-center-grade power into a portable, cloudless device.
+
+### Benefits
+```
+┌───────────────────────────────────────────┐
+│ Portable Power: Datacenter in your pocket │
+│ Energy Use: 90% less power consumption    │
+│ Operation: Complete cloud independence    │
+│ Compatibility: All major frameworks       │
+│ Security: Local data processing          │
+└───────────────────────────────────────────┘
+```
+
+<div style="text-align: center; padding: 40px 0;">
+    <img src="map-device.png" alt="MAP™ Device" style="max-width: 500px; width: 90%; margin: 0 auto; display: block;">
 </div>
 
-## What is a Pocket Super Computer?
+## Problem
+```
+╔═══════════════════════════════════════════════════╗
+║              Current Limitations                   ║
+╠═══════════════════════════════════════════════════╣
+║  Cloud Dependency  │  High Energy Use  │  Cost    ║
+║  Data Centers     │  Infrastructure   │  Scale   ║
+╚═══════════════════════════════════════════════════╝
+```
+
+## PSC
 A pocket super computer is a revolutionary device that brings unprecedented computing power to your fingertips. Unlike traditional supercomputers that require massive data centers and complex infrastructure, pocket super computers are portable, energy-efficient, and accessible to everyone.
 
-<div class="row">
-    <div class="col-md-6">
-        <div class="card">
-            <div class="card-header">
-                <h3>Key Features</h3>
-            </div>
-            <div class="card-body">
-                <ul class="list-group">
-                    <li class="list-group-item">**Portable Power**: Data-center-grade computing in your pocket</li>
-                    <li class="list-group-item">**Energy Efficient**: Revolutionary power management technology</li>
-                    <li class="list-group-item">**Cloudless Operation**: Complete self-contained computing</li>
-                    <li class="list-group-item">**Universal Compatibility**: Works with existing software and tools</li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <div class="col-md-6">
-        <div class="card">
-            <div class="card-header">
-                <h3>Benefits</h3>
-            </div>
-            <div class="card-body">
-                <ul class="list-group">
-                    <li class="list-group-item">**Accessibility**: Democratizing access to supercomputing</li>
-                    <li class="list-group-item">**Cost-Effective**: No expensive infrastructure needed</li>
-                    <li class="list-group-item">**Environmental Impact**: Reduced energy consumption</li>
-                    <li class="list-group-item">**Flexibility**: Use anywhere, anytime</li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
+```
+╔════════════════════════════╗  ╔═══════════════════════════╗
+║       Key Features         ║  ║      Core Benefits        ║
+╠════════════════════════════╣  ╠═══════════════════════════╣
+║ Portable Computing Power   ║  ║ Democratized Access       ║
+║ Revolutionary Energy Use   ║  ║ No Infrastructure Needed  ║
+║ Cloudless Operation       ║  ║ Minimal Energy Impact     ║
+║ Universal Software Support ║  ║ Use Anywhere, Anytime     ║
+╚════════════════════════════╝  ╚═══════════════════════════╝
+```
 
-<div class="row mt-4">
-    <div class="col-md-12">
-        <div class="card">
-            <div class="card-header">
-                <h3>Applications</h3>
-            </div>
-            <div class="card-body">
-                <div class="row">
-                    <div class="col-md-4">
-                        <ul class="list-group">
-                            <li class="list-group-item">Scientific Research</li>
-                            <li class="list-group-item">Machine Learning</li>
-                        </ul>
-                    </div>
-                    <div class="col-md-4">
-                        <ul class="list-group">
-                            <li class="list-group-item">Data Analysis</li>
-                            <li class="list-group-item">Complex Simulations</li>
-                        </ul>
-                    </div>
-                    <div class="col-md-4">
-                        <ul class="list-group">
-                            <li class="list-group-item">Edge Computing</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+```
+╔═══════════════════════════════════════════════════╗
+║                  Applications                      ║
+╠═══════════════════════════════════════════════════╣
+║  Scientific Research  │  Data Analysis  │  AI/ML   ║
+║  Edge Computing      │  Simulations    │  HPC     ║
+╚═══════════════════════════════════════════════════╝
+```
 
 <div class="row mt-4">
     <div class="col-md-6">
@@ -104,4 +107,4 @@ A pocket super computer is a revolutionary device that brings unprecedented comp
             </div>
         </div>
     </div>
-</div> 
+</div>

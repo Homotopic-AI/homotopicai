@@ -47,7 +47,10 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Product: 
+  - Problem: problem.md
+  - Solution: solution.md
+  - Architecture: architecture.md
+  - Product:
     - Overview: product/overview.md
     - Technical Specs: product/specs.md
     - Use Cases: product/use-cases.md
