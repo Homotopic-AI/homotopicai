@@ -25,11 +25,14 @@ jobs:
           pip install mkdocs mkdocs-bootstrap386
           
       - name: Build site
-        run: mkdocs build
-        
+        run: |
+          mkdocs build
+          ls -la site/
+          
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
           folder: site
-          clean: true 
+          clean: true
+          commit-message: "Deploy site to GitHub Pages" 
