@@ -34,6 +34,24 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-      - name: Build and Deploy
+      - name: Create CNAME
         run: |
-          mkdocs gh-deploy --force
+          echo "homotopicai.com" > docs/CNAME
+          
+      - name: Build site
+        run: mkdocs build --clean
+        
+      - name: Deploy to gh-pages
+        run: |
+          git fetch origin gh-pages --depth=1 || true
+          mkdocs gh-deploy --force --remote-branch gh-pages
+          
+      - name: Verify deployment
+        run: |
+          git checkout gh-pages
+          if [ ! -f CNAME ]; then
+            echo "homotopicai.com" > CNAME
+            git add CNAME
+            git commit -m "Add CNAME file"
+            git push origin gh-pages
+          fi
