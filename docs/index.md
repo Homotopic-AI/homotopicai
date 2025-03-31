@@ -1,7 +1,7 @@
 # HomotopicAI
 
 <div style="text-align: center; margin: 20px 0;">
-    <img src="img/map-device.png" alt="MAP™ Device" style="max-width: 300px; height: auto; display: block; margin: 0 auto;">
+    <img src="./img/map-device.png" alt="MAP™ Device" style="max-width: 300px; height: auto; display: block; margin: 0 auto;">
 </div>
 
 ## Key Innovations
