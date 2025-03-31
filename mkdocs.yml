@@ -27,6 +27,23 @@ theme:
     text: Roboto
     code: Roboto Mono
   favicon: assets/favicon.png
+  static_templates:
+    - sitemap.xml
+    - CNAME
+
+markdown_extensions:
+  - toc
+  - tables
+  - fenced_code
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 
 nav:
   - Home: index.md
@@ -54,3 +71,6 @@ nav:
 site_url: https://homotopicai.com
 repo_url: https://github.com/Homotopic-AI/homotopicai
 edit_uri: edit/main/docs/
+
+plugins:
+  - search
