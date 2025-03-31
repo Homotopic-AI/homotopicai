@@ -1,15 +1,12 @@
 # The Promise of 'the Cloud' Has Become a Trap
 
-<div class="alert alert-warning">
-  <h4 class="alert-heading">Systemic Vulnerabilities</h4>
-  <ul class="list-group list-group-flush">
-    <li class="list-group-item">• Latency & Bandwidth Limits</li>
-    <li class="list-group-item">• Privacy Risks</li>
-    <li class="list-group-item">• Energy Waste</li>
-    <li class="list-group-item">• Cost Inequality</li>
-    <li class="list-group-item">• Centralized Control</li>
-  </ul>
-</div>
+## Systemic Vulnerabilities
+
+- **Latency & Bandwidth Limits**: Critical systems affected when connectivity drops
+- **Privacy Risks**: Personal data exposed to surveillance capitalism
+- **Energy Waste**: Data centers consume 3% of global electricity
+- **Cost Inequality**: Barriers for startups and researchers in developing nations
+- **Centralized Control**: Single points of failure for cyberattacks
 
 ## Creating a $1.5 Trillion Oligarchy!
 
@@ -71,26 +68,18 @@ Today's cloud computing backbone supports:
 
 ## The Solution: MAP™
 
-<div class="card">
-  <div class="card-body">
-    <h5 class="card-title">MAP™ Technology Addresses These Challenges Through:</h5>
-    <ul class="list-group list-group-flush">
-      <li class="list-group-item">• Local Processing: Eliminates cloud dependency</li>
-      <li class="list-group-item">• Data Privacy: Processing happens on-device</li>
-      <li class="list-group-item">• Energy Efficiency: 95% reduction in power usage</li>
-      <li class="list-group-item">• Affordability: One-time purchase vs. recurring costs</li>
-      <li class="list-group-item">• Decentralization: No single point of failure</li>
-    </ul>
-  </div>
-</div>
+MAP™ Technology Addresses These Challenges Through:
+
+- **Local Processing**: Eliminates cloud dependency
+- **Data Privacy**: Processing happens on-device
+- **Energy Efficiency**: 95% reduction in power usage
+- **Affordability**: One-time purchase vs. recurring costs
+- **Decentralization**: No single point of failure
 
 ## WHY IT MATTERS
 
-<div class="alert alert-danger">
-  <h4 class="alert-heading">Breaking Free from the Cloud Oligarchy</h4>
-  <p>MAP™ technology represents a fundamental shift in computing architecture, moving away from centralized cloud dependency toward distributed, efficient, and secure local processing.</p>
-  <hr>
-  <p class="mb-0">Protect your privacy, reduce costs, and ensure reliable access to computing power with MAP™.</p>
-</div>
+MAP™ technology represents a fundamental shift in computing architecture, moving away from centralized cloud dependency toward distributed, efficient, and secure local processing.
+
+Protect your privacy, reduce costs, and ensure reliable access to computing power with MAP™.
 
 [Learn more about our solution →](product/overview.md) 

@@ -1,27 +1,13 @@
 # MAP™ Device Overview
 
-<div class="alert alert-info">
-  The MAP™ Device brings supercomputer-level processing to your pocket, delivering unprecedented computational power with unmatched efficiency.
-</div>
+The MAP™ Device brings supercomputer-level processing to your pocket, delivering unprecedented computational power with unmatched efficiency.
 
 ## What is the MAP™ Device?
 The MAP™ Device is a revolutionary pocket supercomputer that brings unprecedented computing power to your fingertips. It combines cutting-edge quantum computing technology with advanced AI capabilities in a portable, energy-efficient design.
 
 ## Key Features
 
-<div class="card">
-  <div class="card-body">
-    <ul class="list-group list-group-flush">
-      <li class="list-group-item">• Teraflop-level processing in a pocket-sized device</li>
-      <li class="list-group-item">• Domain-specific cores for optimized performance</li>
-      <li class="list-group-item">• Ultra-low power consumption</li>
-      <li class="list-group-item">• Complete data privacy and security</li>
-    </ul>
-  </div>
-</div>
-
-### Revolutionary Computing Power
-- **Quantum Processing**: Advanced quantum computing core for complex calculations
+- **Teraflop-level Processing**: Advanced quantum computing core for complex calculations
 - **AI Acceleration**: Built-in neural processing units for machine learning tasks
 - **Cloudless Operation**: Full computing power available offline
 - **Universal Compatibility**: Works with all major operating systems and frameworks
@@ -60,17 +46,6 @@ The MAP™ Device is a revolutionary pocket supercomputer that brings unpreceden
 
 ## Applications
 
-<div class="card">
-  <div class="card-body">
-    <ul class="list-group list-group-flush">
-      <li class="list-group-item">• AI/ML Training and Inference</li>
-      <li class="list-group-item">• Scientific Computing</li>
-      <li class="list-group-item">• Data Analytics</li>
-      <li class="list-group-item">• Edge Computing</li>
-    </ul>
-  </div>
-</div>
-
 ### Scientific Research
 - Complex simulations
 - Data analysis
@@ -99,29 +74,12 @@ The MAP™ Device is a revolutionary pocket supercomputer that brings unpreceden
 
 ## Support & Resources
 
-<div class="row">
-  <div class="col-md-6">
-    <div class="card">
-      <div class="card-body">
-        <h5 class="card-title">Documentation</h5>
-        <ul class="list-unstyled">
-          <li><a href="../developer/docs.md">Technical Documentation</a></li>
-          <li><a href="../developer/sdk.md">SDK Guide</a></li>
-          <li><a href="../developer/community.md">Community Forum</a></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-  <div class="col-md-6">
-    <div class="card">
-      <div class="card-body">
-        <h5 class="card-title">Support</h5>
-        <ul class="list-unstyled">
-          <li><a href="../support/contact.md">Contact Support</a></li>
-          <li><a href="specs.md">Technical Specifications</a></li>
-          <li><a href="use-cases.md">Use Cases</a></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div> 
+### Documentation
+- [Technical Documentation](../developer/docs.md)
+- [SDK Guide](../developer/sdk.md)
+- [Community Forum](../developer/community.md)
+
+### Support
+- [Contact Support](../support/contact.md)
+- [Technical Specifications](specs.md)
+- [Use Cases](use-cases.md) 
