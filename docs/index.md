@@ -1,6 +1,6 @@
 # HomotopicAI
 
-![MAP™ Device](img/map-device.png)
+![MAP™ Device](assets/img/map-device.png)
 
 ## Key Innovations
 - Symbolic AI Acceleration: Native execution of mathematical operations
