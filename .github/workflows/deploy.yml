@@ -14,6 +14,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
       
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -26,17 +28,12 @@ jobs:
           pip install mkdocs==1.5.3
           pip install mkdocs-bootstrap386==0.0.2
           pip install mkdocs-material==9.5.3
-          pip list
           
-      - name: Build site
+      - name: Configure Git
         run: |
-          mkdocs build --verbose
-          ls -la site/
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./site
-          publish_branch: gh-pages
-          commit_message: "Deploy site to GitHub Pages" 
+      - name: Build and Deploy
+        run: |
+          mkdocs gh-deploy --force
