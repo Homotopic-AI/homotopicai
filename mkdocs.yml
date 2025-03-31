@@ -54,21 +54,6 @@ nav:
     - Overview: product/overview.md
     - Technical Specs: product/specs.md
     - Use Cases: product/use-cases.md
-  - Developer:
-    - SDK & Tools: developer/sdk.md
-    - Documentation: developer/docs.md
-    - Community: developer/community.md
-  - Company:
-    - About: company/about.md
-    - Blog: company/blog.md
-    - Careers: company/careers.md
-  - Support:
-    - Resources: support/resources.md
-    - Contact: support/contact.md
-  - Legal:
-    - Privacy: legal/privacy.md
-    - Terms: legal/terms.md
-    - Ethics: legal/ethics.md
 
 # Site configuration
 site_url: https://homotopicai.com
