@@ -1,0 +1,43 @@
+site_name: HomotopicAI
+theme:
+  name: bootstrap386
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - Product: 
+    - Overview: product/overview.md
+    - Technical Specs: product/specs.md
+    - Use Cases: product/use-cases.md
+  - Developer:
+    - SDK & Tools: developer/sdk.md
+    - Documentation: developer/docs.md
+    - Community: developer/community.md
+  - Company:
+    - About: company/about.md
+    - Blog: company/blog.md
+    - Careers: company/careers.md
+  - Support:
+    - Resources: support/resources.md
+    - Contact: support/contact.md
+  - Legal:
+    - Privacy: legal/privacy.md
+    - Terms: legal/terms.md
+    - Ethics: legal/ethics.md
+
+# GitHub Pages configuration
+site_url: https://Homotopic-AI.github.io/homotopicai/  # Your GitHub Pages URL
+repo_url: https://github.com/Homotopic-AI/homotopicai  # Your repository URL
+edit_uri: edit/main/docs/  # For GitHub edit links
