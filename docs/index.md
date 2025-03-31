@@ -1,6 +1,14 @@
 # HomotopicAI
 
-![MAP™ Device](assets/img/map-device.png)
+<div class="grid cards" markdown>
+
+-   :material-cpu-64-bit:{ .lg .middle } __MAP™ Device__
+
+    ---
+
+    ![MAP™ Device](assets/img/map-device.png)
+
+</div>
 
 ## Key Innovations
 - Symbolic AI Acceleration: Native execution of mathematical operations
