@@ -38,6 +38,6 @@ nav:
     - Ethics: legal/ethics.md
 
 # Site configuration
-site_url: https://homotopicai.com  # Replace with your actual domain
+site_url: https://homotopicai.com
 repo_url: https://github.com/Homotopic-AI/homotopicai
 edit_uri: edit/main/docs/
