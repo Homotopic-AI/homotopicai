@@ -37,7 +37,7 @@ nav:
     - Terms: legal/terms.md
     - Ethics: legal/ethics.md
 
-# GitHub Pages configuration
-site_url: https://Homotopic-AI.github.io/homotopicai/  # Your GitHub Pages URL
-repo_url: https://github.com/Homotopic-AI/homotopicai  # Your repository URL
-edit_uri: edit/main/docs/  # For GitHub edit links
+# Site configuration
+site_url: https://homotopicai.com  # Replace with your actual domain
+repo_url: https://github.com/Homotopic-AI/homotopicai
+edit_uri: edit/main/docs/
