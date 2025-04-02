@@ -26,6 +26,8 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Manifesto: manifesto.md
+  - Hardware: hardware.md
+  - Software: software.md
   - Problems:
     - Overview: problem.md
     - Technical Problems: problems/technical.md
@@ -35,8 +37,6 @@ nav:
   - Solution: solution.md
   - Technical Documentation:
     - Foundations: foundations.md
-    - Hardware: hardware.md
-    - Software: software.md
     - Design: design.md
     - Energy Efficiency: energy.md
     - Programming: programming.md
