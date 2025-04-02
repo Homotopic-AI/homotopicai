@@ -1,19 +1,33 @@
 site_name: HomotopicAI
 theme:
-  name: simple-blog
-  nav_style: light
-  navigation_depth: 2
+  name: material
+  palette:
+    primary: indigo
+    accent: blue
+  font:
+    text: Inter
+    code: Roboto Mono
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.integrate
 
 extra_css:
   - assets/css/custom.css
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css
   - https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap
 
+extra_javascript:
+  - https://kit.fontawesome.com/your-kit-code.js
+
 markdown_extensions:
-  - toc
+  - toc:
+      permalink: true
   - tables
   - fenced_code
   - attr_list
+  - md_in_html
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -23,6 +37,8 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+  - admonition
+  - pymdownx.details
 
 nav:
   - Home: index.md
