@@ -24,3 +24,8 @@ wheels/
 # MkDocs
 site/
 .DS_Store 
+
+# Common
+Thumbs.db
+ehthumbs.db
+Desktop.ini

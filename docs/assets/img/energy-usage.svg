@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <!-- Cooling (40%) -->
+        <path d="M200,200 L200,0 A200,200 0 0,1 384.776,115.224 Z" fill="#dc3545" opacity="0.8"/>
+        
+        <!-- Computing (35%) -->
+        <path d="M200,200 L384.776,115.224 A200,200 0 0,1 315.224,384.776 Z" fill="#ffc107" opacity="0.8"/>
+        
+        <!-- Other (25%) -->
+        <path d="M200,200 L315.224,384.776 A200,200 0 0,1 200,0 Z" fill="#17a2b8" opacity="0.8"/>
+        
+        <!-- Center circle -->
+        <circle cx="200" cy="200" r="80" fill="white"/>
+        
+        <!-- Labels -->
+        <text x="280" y="100" font-family="Arial" font-size="16" fill="#333">Cooling</text>
+        <text x="300" y="250" font-family="Arial" font-size="16" fill="#333">Computing</text>
+        <text x="150" y="300" font-family="Arial" font-size="16" fill="#333">Other</text>
+    </g>
+</svg>

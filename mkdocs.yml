@@ -1,20 +1,13 @@
 site_name: HomotopicAI
 theme:
-  name: bootstrap386
-  features:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.expand
-    - navigation.top
-  custom_dir: overrides
-  static_templates:
-    - sitemap.xml
-    - CNAME
-  palette:
-    scheme: dark
+  name: simple-blog
+  nav_style: light
+  navigation_depth: 2
 
 extra_css:
   - assets/css/custom.css
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css
+  - https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap
 
 markdown_extensions:
   - toc
@@ -33,7 +26,13 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Problem: problem.md
+  - Manifesto: manifesto.md
+  - Problems:
+    - Overview: problem.md
+    - Technical Problems: problems/technical.md
+    - Economic Problems: problems/economic.md
+    - Social Problems: problems/social.md
+    - Environmental Problems: problems/environmental.md
   - Solution: solution.md
   - Technical Documentation:
     - Foundations: foundations.md
@@ -51,8 +50,9 @@ nav:
 site_url: https://homotopicai.com
 repo_url: https://github.com/Homotopic-AI/homotopicai
 edit_uri: edit/main/docs/
+site_description: Advanced Computing Solutions with MAP™ Brick
+site_author: HomotopicAI
+copyright: Copyright &copy; 2025 HomotopicAI
 
 plugins:
   - search
-
-copyright: '(C) 2025 HOMOTOPIC AI - ALL RIGHTS RESERVED'
