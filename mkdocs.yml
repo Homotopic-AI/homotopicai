@@ -41,7 +41,12 @@ nav:
     - Applications: applications.md
     - Performance: performance.md
   - Hardware: hardware.md
-  - Software: software.md
+  - Software:
+    - Overview: software.md
+    - PicoOS: software/pico-os.md
+    - PicoCode: software/pico-code.md
+    - PicoCare: software/pico-care.md
+    - PicoGov: software/pico-gov.md
 
 # Site configuration
 site_url: https://homotopicai.com
