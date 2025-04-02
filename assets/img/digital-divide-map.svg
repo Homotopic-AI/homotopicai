@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="400px" viewBox="0 0 800 400" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <!-- North America -->
+        <path d="M150,80 L280,80 L300,150 L200,200 L150,150 Z" fill="#28a745" opacity="0.8"/>
+        
+        <!-- South America -->
+        <path d="M220,220 L280,220 L300,350 L200,380 L180,280 Z" fill="#ffc107" opacity="0.8"/>
+        
+        <!-- Europe -->
+        <path d="M380,80 L480,80 L500,150 L420,180 L380,150 Z" fill="#28a745" opacity="0.8"/>
+        
+        <!-- Africa -->
+        <path d="M380,200 L480,180 L500,320 L420,350 L380,280 Z" fill="#dc3545" opacity="0.8"/>
+        
+        <!-- Asia -->
+        <path d="M520,80 L700,80 L720,220 L600,280 L520,200 Z" fill="#ffc107" opacity="0.8"/>
+        
+        <!-- Australia -->
+        <path d="M650,280 L720,280 L740,350 L680,380 L650,320 Z" fill="#28a745" opacity="0.8"/>
+        
+        <!-- Grid Lines -->
+        <line x1="0" y1="200" x2="800" y2="200" stroke="#666" stroke-width="0.5" opacity="0.3"/>
+        <line x1="400" y1="0" x2="400" y2="400" stroke="#666" stroke-width="0.5" opacity="0.3"/>
+    </g>
+</svg>
