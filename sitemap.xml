@@ -126,6 +126,26 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://homotopicai.com/software/pico-care/</loc>
+         <lastmod>2025-04-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://homotopicai.com/software/pico-code/</loc>
+         <lastmod>2025-04-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://homotopicai.com/software/pico-gov/</loc>
+         <lastmod>2025-04-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://homotopicai.com/software/pico-os/</loc>
+         <lastmod>2025-04-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://homotopicai.com/support/contact/</loc>
          <lastmod>2025-04-02</lastmod>
          <changefreq>daily</changefreq>
