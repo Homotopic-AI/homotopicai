@@ -657,3 +657,107 @@ h1, h2, h3, h4 {
     color: #1a237e;
     margin-bottom: 0.5rem;
 }
+
+/* Performance Comparison Tables */
+.comparison-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.comparison-table th,
+.comparison-table td {
+    padding: 1rem;
+    border: 1px solid #eee;
+}
+
+.comparison-table th {
+    background: #1a237e;
+    color: white;
+    font-weight: 600;
+    text-align: left;
+}
+
+.comparison-table tr:nth-child(even) {
+    background: #f8f9fa;
+}
+
+.comparison-table td:first-child {
+    font-weight: 500;
+}
+
+/* Advantages Grid */
+.advantages-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.advantage-card {
+    background: white;
+    border-radius: 12px;
+    padding: 2rem;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: transform 0.2s;
+}
+
+.advantage-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 12px rgba(0,0,0,0.15);
+}
+
+.advantage-card i {
+    font-size: 2.5rem;
+    color: #1a237e;
+    margin-bottom: 1rem;
+}
+
+.advantage-card h4 {
+    color: #1a237e;
+    margin-bottom: 0.5rem;
+}
+
+/* Performance Metrics */
+.performance-metrics ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.performance-metrics ul ul {
+    padding-left: 2rem;
+    margin-top: 0.5rem;
+}
+
+.performance-metrics li {
+    margin-bottom: 1rem;
+}
+
+.performance-metrics i {
+    color: #1a237e;
+    margin-right: 0.5rem;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .comparison-table {
+        display: block;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .comparison-table th,
+    .comparison-table td {
+        white-space: nowrap;
+        padding: 0.75rem;
+    }
+
+    .advantages-grid {
+        grid-template-columns: 1fr;
+    }
+}
