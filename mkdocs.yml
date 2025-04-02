@@ -26,8 +26,6 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Manifesto: manifesto.md
-  - Hardware: hardware.md
-  - Software: software.md
   - Problems:
     - Overview: problem.md
     - Technical Problems: problems/technical.md
@@ -42,10 +40,8 @@ nav:
     - Programming: programming.md
     - Applications: applications.md
     - Performance: performance.md
-  - Product:
-    - Overview: product/overview.md
-    - Technical Specs: product/specs.md
-    - Use Cases: product/use-cases.md
+  - Hardware: hardware.md
+  - Software: software.md
 
 # Site configuration
 site_url: https://homotopicai.com
