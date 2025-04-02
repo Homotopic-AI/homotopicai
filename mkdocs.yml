@@ -35,6 +35,8 @@ nav:
   - Solution: solution.md
   - Technical Documentation:
     - Foundations: foundations.md
+    - Hardware: hardware.md
+    - Software: software.md
     - Design: design.md
     - Energy Efficiency: energy.md
     - Programming: programming.md

@@ -475,3 +475,185 @@ h1, h2, h3, h4 {
         font-size: 2rem;
     }
 }
+
+/* Hardware Page */
+.hardware-grid,
+.software-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin: 3rem 0;
+}
+
+.hardware-card,
+.software-card {
+    background: white;
+    border-radius: 12px;
+    padding: 2.5rem;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    text-align: center;
+    transition: transform 0.2s;
+}
+
+.hardware-card:hover,
+.software-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 12px rgba(0,0,0,0.15);
+}
+
+.hardware-icon,
+.software-icon {
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+    color: #1a237e;
+}
+
+.specs-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin: 3rem 0;
+}
+
+.spec-card {
+    background: white;
+    border-radius: 12px;
+    padding: 2rem;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.specs-table {
+    width: 100%;
+    margin-top: 1rem;
+}
+
+.specs-table td {
+    padding: 0.5rem;
+    border-bottom: 1px solid #eee;
+}
+
+.specs-table td:first-child {
+    color: #666;
+    width: 40%;
+}
+
+.specs-table td:last-child {
+    font-weight: 500;
+    color: #1a237e;
+}
+
+.architecture-diagram img {
+    max-width: 100%;
+    height: auto;
+    margin: 2rem 0;
+}
+
+.feature-row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.feature-item {
+    text-align: center;
+}
+
+.feature-item i {
+    font-size: 2rem;
+    color: #1a237e;
+    margin-bottom: 1rem;
+}
+
+/* Software Page */
+.stack-section {
+    margin: 4rem 0;
+}
+
+.stack-diagram {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.stack-layer {
+    background: white;
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.stack-layer h3 {
+    color: #1a237e;
+    margin-bottom: 0.5rem;
+}
+
+.stack-layer p {
+    color: #666;
+    margin: 0;
+}
+
+.languages-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+    margin: 3rem 0;
+}
+
+.language-card {
+    background: white;
+    border-radius: 12px;
+    padding: 2rem;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    text-align: center;
+    transition: transform 0.2s;
+}
+
+.language-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 12px rgba(0,0,0,0.15);
+}
+
+.language-card i {
+    font-size: 3rem;
+    color: #1a237e;
+    margin-bottom: 1rem;
+}
+
+.language-card h4 {
+    color: #1a237e;
+    margin-bottom: 0.5rem;
+}
+
+.features-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin: 3rem 0;
+}
+
+.feature-card {
+    background: white;
+    border-radius: 12px;
+    padding: 2rem;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    text-align: center;
+    transition: transform 0.2s;
+}
+
+.feature-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 12px rgba(0,0,0,0.15);
+}
+
+.feature-card i {
+    font-size: 2.5rem;
+    color: #1a237e;
+    margin-bottom: 1rem;
+}
+
+.feature-card h4 {
+    color: #1a237e;
+    margin-bottom: 0.5rem;
+}
