@@ -47,6 +47,7 @@ nav:
     - PicoCode: software/pico-code.md
     - PicoCare: software/pico-care.md
     - PicoGov: software/pico-gov.md
+  - Pricing: pricing.md
 
 # Site configuration
 site_url: https://homotopicai.com
