@@ -26,6 +26,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://homotopicai.com/hardware/</loc>
+         <lastmod>2025-04-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://homotopicai.com/manifesto/</loc>
          <lastmod>2025-04-02</lastmod>
          <changefreq>daily</changefreq>
@@ -42,6 +47,11 @@
     </url>
     <url>
          <loc>https://homotopicai.com/programming/</loc>
+         <lastmod>2025-04-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://homotopicai.com/software/</loc>
          <lastmod>2025-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
